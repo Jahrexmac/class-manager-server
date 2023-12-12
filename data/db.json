@@ -1,23 +1,13 @@
 {
   "users": [
-    {
-      "email": "shubham@example.com",
-      "password": "$2a$10$K9aEH3/VDb2QU/EsjrHGJO7X5JxCcg0bMAnBtyT3kBW9FL7FnnygO",
-      "name": "Shubham Sarda",
-      "id": 1
-    },
+  
     {
       "email": "jahrexmac@gmail.com",
       "password": "$2a$10$rTPmFDvfC7dtxGPWzwf1C.sUu8WimZKe/DnuSIrH3Z6o4lhGzmA8G",
       "name": "jahrex",
       "id": 2
-    },
-    {
-      "email": "mica@gmail.com",
-      "password": "$2a$10$45KFc44ngwOhzyQ2xzhXbeTIzAu6MlEwJZTwvOm24xaFCHEonJ1He",
-      "name": "mica",
-      "id": 3
     }
+   
   ],
   "classroom": [
     {
@@ -236,35 +226,6 @@
     }
   ],
   "accesscode": [
-    {
-      "name": "chem",
-      "classroom": "2",
-      "accessCode": "2-chem-3c63z6b2r8D2",
-      "id": 1
-    },
-    {
-      "name": "vocano",
-      "classroom": "2",
-      "accessCode": "2-vocano-qQihvPW5v1QG",
-      "id": 2
-    },
-    {
-      "name": "maths",
-      "classroom": "2",
-      "accessCode": "2-maths-Iymu1ArAaLUm",
-      "id": 3
-    },
-    {
-      "name": "eng",
-      "classroom": "2",
-      "accessCode": "2-eng-RER1LuOyftk7",
-      "id": 4
-    },
-    {
-      "name": "geography",
-      "classroom": "2",
-      "accessCode": "2-geography-UiQykeMEvgLZ",
-      "id": 5
-    }
+    
   ]
 }
