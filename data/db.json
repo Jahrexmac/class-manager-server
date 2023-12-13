@@ -1,229 +1,25 @@
 {
   "users": [
-  
-    {
-      "email": "jahrexmac@gmail.com",
-      "password": "$2a$10$rTPmFDvfC7dtxGPWzwf1C.sUu8WimZKe/DnuSIrH3Z6o4lhGzmA8G",
-      "name": "jahrex",
-      "id": 2
-    }
    
   ],
   "classroom": [
-    {
-      "name": "ss1",
-      "teacher": "jahrex",
-      "user": 2,
-      "id": 1
-    }
+    
   ],
   "student": [
-    {
-      "name": "admira zuh",
-      "sex": "Nill",
-      "email": "Nill",
-      "dob": "Nill",
-      "phone": "Nill",
-      "address": "Nill",
-      "classroom": "1",
-      "id": 1
-    },
-    {
-      "name": "mary Jonas",
-      "sex": "Male",
-      "email": "jahrexmac@gmail.com",
-      "dob": "2023-12-13",
-      "phone": "07038665699",
-      "address": "38, John Ogbeide",
-      "classroom": "1",
-      "id": 2
-    },
-    {
-      "name": "jade jade",
-      "sex": "Female",
-      "email": "jahrexmac@gmail.com",
-      "dob": "2023-12-21",
-      "phone": "07038665699",
-      "address": "38, John Ogbeide",
-      "classroom": "1",
-      "id": 3
-    }
-  ],
-  "subject": [
-    {
-      "name": "maths",
-      "student": 1,
-      "id": 1
-    },
-    {
-      "name": "maths",
-      "student": 2,
-      "id": 2
-    },
-    {
-      "name": "maths",
-      "student": 3,
-      "id": 3
-    }
+    
+    
   ],
   "assessment": [
-    {
-      "name": "first",
-      "score": 0,
-      "subject": 1,
-      "id": 1
-    },
-    {
-      "name": "second",
-      "score": 0,
-      "subject": 1,
-      "id": 2
-    },
-    {
-      "name": "exam",
-      "score": 0,
-      "subject": 1,
-      "id": 3
-    },
-    {
-      "name": "first",
-      "score": 0,
-      "subject": 2,
-      "id": 4
-    },
-    {
-      "name": "second",
-      "score": 0,
-      "subject": 2,
-      "id": 5
-    },
-    {
-      "name": "exam",
-      "score": 0,
-      "subject": 2,
-      "id": 6
-    },
-    {
-      "name": "first",
-      "score": 0,
-      "subject": 3,
-      "id": 7
-    },
-    {
-      "name": "second",
-      "score": 0,
-      "subject": 3,
-      "id": 8
-    },
-    {
-      "name": "exam",
-      "score": 0,
-      "subject": 3,
-      "id": 9
-    }
+    
   ],
   "subjectlist": [
-    {
-      "subjects": [
-        "maths"
-      ],
-      "classroom": "1",
-      "id": 1
-    }
+    
   ],
   "assessmentlist": [
-    {
-      "assessments": [
-        "first",
-        "second",
-        "exam"
-      ],
-      "classroom": "1",
-      "id": 1
-    }
+   
   ],
   "gradescheme": [
-    {
-      "start": 0,
-      "end": 39,
-      "letter": "F",
-      "remark": "Fail",
-      "classroom": 2,
-      "color": "red",
-      "id": 1
-    },
-    {
-      "start": 40,
-      "end": 49,
-      "letter": "P",
-      "remark": "pass",
-      "classroom": 2,
-      "color": "black",
-      "id": 2
-    },
-    {
-      "start": 50,
-      "end": 59,
-      "letter": "C",
-      "remark": "credit",
-      "classroom": 2,
-      "color": "black",
-      "id": 3
-    },
-    {
-      "start": 60,
-      "end": 69,
-      "letter": "B",
-      "remark": "good",
-      "classroom": 2,
-      "color": "black",
-      "id": 4
-    },
-    {
-      "start": 70,
-      "end": 79,
-      "letter": "B+",
-      "remark": "very good",
-      "classroom": 2,
-      "color": "black",
-      "id": 5
-    },
-    {
-      "start": 80,
-      "end": 89,
-      "letter": "A",
-      "remark": "excellent",
-      "classroom": 2,
-      "color": "black",
-      "id": 6
-    },
-    {
-      "start": 90,
-      "end": 100,
-      "letter": "A+",
-      "remark": "very excellent",
-      "classroom": 2,
-      "color": "black",
-      "id": 7
-    },
-    {
-      "start": 0,
-      "end": 23,
-      "letter": "A",
-      "remark": "Fail",
-      "classroom": 3,
-      "color": "red",
-      "id": 8
-    },
-    {
-      "start": 2,
-      "end": 5,
-      "letter": "A",
-      "remark": "excellent",
-      "classroom": 4,
-      "color": "black",
-      "id": 9
-    }
+    
   ],
   "accesscode": [
     
